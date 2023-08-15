@@ -1,2 +1,2 @@
 # Arqui-inimigo-tabnews
-O maior arqui-inimigo do Tabnews
+Usando o sharingan no Tabnews
